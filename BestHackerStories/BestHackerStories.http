@@ -1,0 +1,9 @@
+@BestHackerStories_HostAddress = http://localhost:5210
+
+GET {{BestHackerStories_HostAddress}}/weatherforecast/
+Accept: application/json
+
+GET {{BestHackerStories_HostAddress}}/beststories/
+Accept: application/json
+
+###
