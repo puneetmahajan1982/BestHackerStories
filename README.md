@@ -14,9 +14,13 @@ Code is written in Visual Studion 2022 Pro.
 To test you can use swagger 
   - Select BestHackerStories v1 definition.
   - TryOut /api/BestStories endpoint, you will get option to input count of best stories.
-    ![image](https://github.com/puneetmahajan1982/BestHackerStories/assets/26072941/7470c467-bb51-4c3f-bb67-3739f34ee958)
 
-  ![image](https://github.com/puneetmahajan1982/BestHackerStories/assets/26072941/0e3eb4f6-0afb-46a1-b78a-acb643957542)
+    
+    ![image](https://github.com/puneetmahajan1982/BestHackerStories/assets/26072941/057c1c3d-fe18-48b3-9345-2486f52cc850)
+
+
+    ![image](https://github.com/puneetmahajan1982/BestHackerStories/assets/26072941/0e3eb4f6-0afb-46a1-b78a-acb643957542)
+
 
 ## Implementation Details
 - WebApi will build and maintain a cache of stories. When cache is build it will periodically update the cache after a pre-configured timeframe defined in the configuration.
