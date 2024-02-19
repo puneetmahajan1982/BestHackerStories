@@ -1,5 +1,5 @@
 # Best Hacker Stories
-Solution is written in Visual Studion 2022 Pro.
+Solution is written in Visual Studio 2022 Pro.
 WebAPI is ASP.NET Core.
 
 ### Assumptions
